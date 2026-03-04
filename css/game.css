@@ -18,7 +18,7 @@ body {
     z-index: 9;
 }
 #errorName {
-    color: #ff0;
+    color: rgb(0, 81, 156);
     font-weight: bold;
     -moz-user-select: text;
     -webkit-user-select: text;
@@ -26,7 +26,7 @@ body {
     user-select: text;
 }
 #errorMessage {
-    color: #fff;
+    color: #00d9ff;
     -moz-user-select: text;
     -webkit-user-select: text;
     -ms-user-select: text;
@@ -34,7 +34,7 @@ body {
 }
 #retryButton {
     font-size: 20px;
-    color: #fff;
+    color: #3e5ad8fff;
     background-color: #000;
     border-radius: 8px;
     margin: 20px;
@@ -74,27 +74,7 @@ body {
     color: #fff;
     text-align: right;
 }
-#loadingSpinner {
-    margin: auto;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    width: 120px;
-    height: 120px;
-    z-index: 10;
-}
-#loadingSpinnerImage {
-    margin: 0px;
-    padding: 0px;
-    border-radius: 50%;
-    width: 96px;
-    height: 96px;
-    border: 12px solid rgba(255, 255, 255, 0.25);
-    border-top: 12px solid rgba(255, 255, 255, 1);
-    animation: fadein 2s ease, spin 1.5s linear infinite;
-}
+
 @keyframes fadein {
     0% {
         opacity: 0;
