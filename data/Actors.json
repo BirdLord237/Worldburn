@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"$figure","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"figure_face_sheet","traits":[],"initialLevel":1,"maxLevel":99,"name":"Draft","nickname":"Someguy","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"$Strill","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Strill","nickname":"Teenage Fox Girl","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$Strill","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Strill","nickname":"Teenage Fox Girl","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$figure","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"figure_face_sheet","traits":[],"initialLevel":1,"maxLevel":99,"name":"Draft","nickname":"Someguy","note":"","profile":""}
 ]
