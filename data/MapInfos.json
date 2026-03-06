@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"House","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":306,"quick":false}
+{"id":1,"expanded":true,"name":"house_normal","order":1,"parentId":0,"scrollX":811,"scrollY":451,"quick":false},
+{"id":2,"expanded":false,"name":"outside_overworld","order":2,"parentId":0,"scrollX":2992,"scrollY":2300,"quick":false}
 ]
