@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"animationId":0,"description":"Some piece of crap","etypeId":1,"traits":[{"code":51,"dataId":1,"value":1},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Stick","note":"","params":[10,0,10,2,0,0,0,1],"price":0,"wtypeId":1}
+{"id":1,"animationId":0,"description":"Some piece of crap","etypeId":1,"traits":[{"code":51,"dataId":1,"value":1},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"Stick","note":"","params":[10,4,10,2,3,2,3,1],"price":0,"wtypeId":1}
 ]
