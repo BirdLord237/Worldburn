@@ -1,3 +1,4 @@
 [
-null
+null,
+{"id":1,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","messageType":1,"minTurns":1,"motion":3,"name":"Death","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":1,"stepsToRemove":100}
 ]
