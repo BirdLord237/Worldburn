@@ -1,9 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"house_normal","order":1,"parentId":0,"scrollX":811,"scrollY":451,"quick":false},
-{"id":2,"expanded":true,"name":"outside_overworld","order":2,"parentId":0,"scrollX":2505.6,"scrollY":2139.6,"quick":false},
-{"id":3,"expanded":true,"name":"outside_desserted_town ","order":3,"parentId":0,"scrollX":832,"scrollY":1760,"quick":false},
-{"id":4,"expanded":false,"name":"draft_encounter","order":4,"parentId":0,"scrollX":811,"scrollY":459,"quick":false},
-{"id":5,"expanded":true,"name":"outside_wasteland","order":5,"parentId":0,"scrollX":1320,"scrollY":2720,"quick":false},
-{"id":6,"expanded":false,"name":"puzzle_room","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":541.1999999999999,"quick":false}
+{"id":2,"expanded":true,"name":"outside_overworld","order":2,"parentId":0,"scrollX":1946.3999999999999,"scrollY":2140.7999999999997,"quick":false},
+{"id":3,"expanded":true,"name":"outside_desserted_town ","order":4,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1298.3999999999999,"quick":false},
+{"id":4,"expanded":false,"name":"draft_encounter","order":3,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
+{"id":5,"expanded":true,"name":"outside_wasteland","order":5,"parentId":0,"scrollX":1965.6,"scrollY":1101.6,"quick":false},
+{"id":6,"expanded":true,"name":"puzzle_room","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":541.1999999999999,"quick":false},
+{"id":7,"expanded":false,"name":"enemy_house","order":7,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1101.6,"quick":false}
 ]
