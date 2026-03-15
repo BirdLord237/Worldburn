@@ -4,5 +4,6 @@ null,
 {"id":2,"expanded":true,"name":"outside_overworld","order":2,"parentId":0,"scrollX":2506,"scrollY":2139,"quick":false},
 {"id":3,"expanded":true,"name":"outside_desserted_town ","order":3,"parentId":0,"scrollX":832,"scrollY":1760,"quick":false},
 {"id":4,"expanded":false,"name":"draft_encounter","order":4,"parentId":0,"scrollX":811,"scrollY":459,"quick":false},
-{"id":5,"expanded":true,"name":"outside_wasteland","order":5,"parentId":0,"scrollX":1329.6,"scrollY":2674.7999999999997,"quick":false}
+{"id":5,"expanded":true,"name":"outside_wasteland","order":5,"parentId":0,"scrollX":1320,"scrollY":2720,"quick":false},
+{"id":6,"expanded":false,"name":"puzzle_room","order":6,"parentId":0,"scrollX":816,"scrollY":624,"quick":false}
 ]
