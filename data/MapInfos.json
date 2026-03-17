@@ -6,5 +6,6 @@ null,
 {"id":4,"expanded":false,"name":"draft_encounter","order":3,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
 {"id":5,"expanded":true,"name":"outside_wasteland","order":5,"parentId":0,"scrollX":1965.6,"scrollY":1101.6,"quick":false},
 {"id":6,"expanded":true,"name":"puzzle_room","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":541.1999999999999,"quick":false},
-{"id":7,"expanded":false,"name":"enemy_house","order":7,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1101.6,"quick":false}
+{"id":7,"expanded":true,"name":"enemy_house","order":7,"parentId":0,"scrollX":899.3333333333334,"scrollY":323.3333333333333,"quick":false},
+{"id":8,"expanded":false,"name":"enemy_house_other","order":8,"parentId":0,"scrollX":816,"scrollY":306.6666666666667,"quick":false}
 ]
