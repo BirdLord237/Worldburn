@@ -10,5 +10,6 @@ null,
 {"id":8,"expanded":true,"name":"enemy_house_other","order":8,"parentId":0,"scrollX":811,"scrollY":981,"quick":false},
 {"id":9,"expanded":true,"name":"enemy_house_final","order":9,"parentId":0,"scrollX":811,"scrollY":1760,"quick":false},
 {"id":10,"expanded":true,"name":"enemy_house_king_fight","order":10,"parentId":0,"scrollX":832,"scrollY":3680,"quick":false},
-{"id":11,"expanded":false,"name":"waterways_start","order":11,"parentId":0,"scrollX":816,"scrollY":640,"quick":false}
+{"id":11,"expanded":true,"name":"waterways_start","order":11,"parentId":0,"scrollX":832,"scrollY":1760,"quick":false},
+{"id":12,"expanded":false,"name":"waterways_cross","order":12,"parentId":0,"scrollX":811,"scrollY":619,"quick":false}
 ]
