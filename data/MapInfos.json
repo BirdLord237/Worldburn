@@ -12,5 +12,6 @@ null,
 {"id":10,"expanded":true,"name":"enemy_house_king_fight","order":10,"parentId":0,"scrollX":832,"scrollY":3680,"quick":false},
 {"id":11,"expanded":true,"name":"waterways_start","order":11,"parentId":0,"scrollX":832,"scrollY":1760,"quick":false},
 {"id":12,"expanded":true,"name":"waterways_cross","order":12,"parentId":0,"scrollX":811,"scrollY":561,"quick":false},
-{"id":13,"expanded":false,"name":"waterways_puzzle","order":13,"parentId":0,"scrollX":811,"scrollY":459,"quick":false}
+{"id":13,"expanded":true,"name":"waterways_puzzle","order":13,"parentId":0,"scrollX":811,"scrollY":501,"quick":false},
+{"id":14,"expanded":false,"name":"waterways_maze","order":14,"parentId":0,"scrollX":811,"scrollY":451,"quick":false}
 ]
