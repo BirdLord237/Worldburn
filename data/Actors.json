@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"","characterIndex":0,"characterName":"$Strill","classId":2,"equips":[1],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1},{"code":43,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Fuschia","nickname":"Teenage Fox Girl","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"$figure","classId":1,"equips":[1],"faceIndex":0,"faceName":"figure_face_sheet","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Draft","nickname":"Someguy","note":"","profile":""}
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$figure","classId":1,"equips":[1],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Draft","nickname":"Someguy","note":"","profile":""}
 ]
