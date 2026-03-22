@@ -15,6 +15,6 @@ null,
 {"id":13,"expanded":true,"name":"waterways_puzzle","order":13,"parentId":0,"scrollX":811,"scrollY":501,"quick":false},
 {"id":14,"expanded":true,"name":"waterways_maze","order":14,"parentId":0,"scrollX":832,"scrollY":1760,"quick":false},
 {"id":15,"expanded":true,"name":"waterways_king_fight","order":15,"parentId":0,"scrollX":811,"scrollY":920,"quick":false},
-{"id":16,"expanded":false,"name":"transition_next","order":16,"parentId":0,"scrollX":811,"scrollY":981,"quick":false},
+{"id":16,"expanded":false,"name":"transition_next","order":16,"parentId":0,"scrollX":811,"scrollY":459,"quick":false},
 {"id":17,"expanded":false,"name":"cyber_start","order":17,"parentId":0,"scrollX":811,"scrollY":981,"quick":false}
 ]
