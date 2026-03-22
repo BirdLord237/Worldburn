@@ -16,6 +16,6 @@ null,
 {"id":14,"expanded":true,"name":"waterways_maze","order":14,"parentId":0,"scrollX":832,"scrollY":1760,"quick":false},
 {"id":15,"expanded":true,"name":"waterways_king_fight","order":15,"parentId":0,"scrollX":811,"scrollY":920,"quick":false},
 {"id":16,"expanded":false,"name":"transition_next","order":16,"parentId":0,"scrollX":811,"scrollY":459,"quick":false},
-{"id":17,"expanded":true,"name":"cyber_start","order":17,"parentId":0,"scrollX":811,"scrollY":459,"quick":false},
-{"id":18,"expanded":false,"name":"cyber_field","order":18,"parentId":0,"scrollX":811,"scrollY":471,"quick":false}
+{"id":17,"expanded":true,"name":"cyber_start","order":17,"parentId":0,"scrollX":816,"scrollY":800,"quick":false},
+{"id":18,"expanded":false,"name":"cyber_field","order":18,"parentId":0,"scrollX":816,"scrollY":451,"quick":false}
 ]
